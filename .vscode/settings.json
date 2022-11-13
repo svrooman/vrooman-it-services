@@ -1,0 +1,15 @@
+{
+    "i18n-ally.localesPaths": [
+        "resources/lang",
+        "userfiles/modules/btn/language",
+        "userfiles/modules/comments/language",
+        "src/MicroweberPackages/Translation/resources/lang",
+        "userfiles/modules/microweber/api/libs/apexcharts/locales",
+        "userfiles/modules/microweber/api/libs/bootstrap-datepicker/locales",
+        "userfiles/modules/microweber/api/libs/bootstrap-datetimepicker/js/locales",
+        "userfiles/modules/microweber/api/libs/air-datepicker/js/i18n",
+        "userfiles/modules/microweber/api/libs/bootstrap-select-1.12.2/js/i18n",
+        "userfiles/modules/microweber/api/libs/bootstrap-select-1.13.12/js/i18n",
+        "userfiles/modules/microweber/api/libs/jquery_validation/js/languages"
+    ]
+}
